@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_heading_headings",
+  "info": {
+    "displayName": "Headings",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "paragraph": {
+      "type": "text"
+    }
+  }
+}

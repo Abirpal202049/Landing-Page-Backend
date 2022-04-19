@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_footer_data_footers",
+  "info": {
+    "displayName": "Footer",
+    "icon": "angle-double-down"
+  },
+  "options": {},
+  "attributes": {
+    "details": {
+      "type": "string"
+    }
+  }
+}

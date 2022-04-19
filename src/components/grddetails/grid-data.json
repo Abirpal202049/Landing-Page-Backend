@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_grddetails_grid_data",
+  "info": {
+    "displayName": "GridData",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "gridHeading": {
+      "type": "string"
+    },
+    "gridDescription": {
+      "type": "richtext"
+    }
+  }
+}

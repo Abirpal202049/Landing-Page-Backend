@@ -1,0 +1,67 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "displayName": "Headings",
+      "type": "component",
+      "repeatable": true,
+      "component": "heading.headings"
+    },
+    "gridDetails": {
+      "displayName": "GridData",
+      "type": "component",
+      "repeatable": false,
+      "component": "grddetails.grid-data"
+    },
+    "navLogo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "bannnerImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "GridImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "footerdata": {
+      "displayName": "Footer",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer-data.footer"
+    }
+  }
+}
